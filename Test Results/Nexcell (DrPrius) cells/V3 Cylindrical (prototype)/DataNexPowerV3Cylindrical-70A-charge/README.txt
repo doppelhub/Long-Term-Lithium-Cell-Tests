@@ -6,4 +6,5 @@ At cycle 3 it was 50 degC
 At cycle 12 it was 65 degC
 
 Test stopped after cycle 444 to perform 30 & 100 amps testing for a few cycles.
-Test resumed after that testing completed, and is still under test as of this writing.
+
+Data starting at cycle 445 is verified accurate, and is likely due to Claim M in my discussion thread.

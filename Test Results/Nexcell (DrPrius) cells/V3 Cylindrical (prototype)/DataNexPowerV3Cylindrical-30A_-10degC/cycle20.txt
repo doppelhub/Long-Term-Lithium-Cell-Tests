@@ -1,0 +1,1 @@
+%Discharge%t(seconds), mVcell0, 33011, 2850%Charge%t(seconds), mVcell, mAh, mWh0, 3561, 1, 3
