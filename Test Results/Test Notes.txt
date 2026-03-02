@@ -1,0 +1,6 @@
+Stopped at 7:25pm after cycle 188... to move 4AWG inside.
+
+Restarted at 7:30pm (+5min).  Resting voltage at beginning was 4.06V.
+Test failed on cycle 189 for some reason...
+
+...restarted test at cycle 190.
