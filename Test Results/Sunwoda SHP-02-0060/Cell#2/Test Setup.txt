@@ -1,4 +1,5 @@
-This was a single charge cycle test at 11C, to invalidate DonutLab's claim that no NMC lithium cell could handle 11C charging from empty to 80% without active cooling.
+This was a single charge cycle test at 11C, to invalidate DonutLab's claim that no NMC lithium cell could handle 11C charging from empty to 80% without active cooling.  Specifically, their claim was (cringe emojis and all):
+"First of all, not a single NMC cell would perform like that during full 11C charge without active cooling and reaching 89 celsius.🤭 Happy to cover all the test costs and a little bonus to anyone who successfully does it with VTT or other trustworthy research lab and proves otherwise. ⚡️"
 
 Test results:
 https://www.youtube.com/watch?v=unQrgIvD5Xg
