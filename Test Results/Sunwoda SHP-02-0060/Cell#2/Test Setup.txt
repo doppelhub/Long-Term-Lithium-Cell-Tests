@@ -3,4 +3,7 @@ This was a single charge cycle test at 11C, to invalidate DonutLab's claim that 
 Test results:
 https://www.youtube.com/watch?v=unQrgIvD5Xg
 
-After this charge test completed, the cell rested for one hour, and was then discharged at 1C (6 A) back down to the starting voltage (3.0 volts).  During this discharge, the cell sourced 5.79 Ah.  Thus, the round trip Coulomb efficiency was 99.
+The cell in this video accepted 5.848 Ah in 319 seconds (5.3 minutes)(11.3C).
+
+After this charge test completed, the cell rested for one hour, and was then discharged at 1C (6 A) back down to the starting voltage (3.0 volts).
+During this discharge, the cell sourced 5.79 Ah.  So round trip coulomb efficiency was 99.2% (5.8/5.848Ah).  Note that actual energy efficiency (Wh) was lower, due to the difference in voltage between charge and discharge.
